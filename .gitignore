@@ -38,3 +38,5 @@ debian/
 # Vim swap files
 *.swp
 *.swo
+/lib/ansible.egg-info/*
+/ansible.egg-info/*
